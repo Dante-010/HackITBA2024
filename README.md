@@ -1,9 +1,13 @@
 # HackItba 2024
-
+#### Ctrl - Alt - Del
+ - Antonella Berzzotti
+ - Dante Culaciati
+ - Lorenzo Ruiz Díaz
+ - Martina Ranieri
 ### [Como ejecutar](#como-ejecutar)
 ----------
 ## CIFU: Mantené tu cerebro activo
-CIFU (Cuidado Integral para el Fortalecimiento Unificado de la Mente)
+CIFU
 
 CIFU es una aplicación web diseñada para brindar ejercicios cognitivos y seguimiento de logros, con el objetivo de promover la salud cerebral y poder darle un acompañamiento interactivo a ciertas personas afectadas por complicaciones en relación al cerebro.
 
